@@ -1,4 +1,4 @@
-# NetSuite migration, Zoho CRM development (2018-2020)
+# NetSuite Migration, Zoho CRM Developer (2017-2019)
 
 ![demo](/img/port_glls.jpg)
 
